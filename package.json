@@ -1,0 +1,23 @@
+{
+  "name": "scrollmagic",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "gsap": "^3.6.1",
+    "nuxt": "^2.15.3",
+    "scrollmagic": "^2.0.8",
+    "scrollmagic-plugins": "^1.0.8"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "sass": "^1.32.12",
+    "sass-loader": "^10.1.1"
+  }
+}
